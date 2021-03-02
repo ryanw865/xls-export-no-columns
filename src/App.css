@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: 5% 10% 0% 10%;
+}
+.primary-button {
+  width: 150px;
+}
